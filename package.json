@@ -8,7 +8,8 @@
     "dev": "vite",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix src",
     "preview": "vite preview",
-    "test": "jest"
+    "test": "jest",
+    "start": "vite"
   },
   "prettier": {
     "printWidth": 120,
