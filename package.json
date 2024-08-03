@@ -9,7 +9,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix src",
     "preview": "vite preview",
     "test": "jest",
-    "start": "vite"
+    "start": "vite --host"
   },
   "prettier": {
     "printWidth": 120,
